@@ -17,9 +17,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: yuki4266/living-scene@v1
         with:
-          lat: "40.7128"          # ← your latitude  (right-click your city in Google Maps)
-          lon: "-74.0060"         # ← your longitude
-          tz: America/New_York    # ← your IANA timezone
+          lat: "39.9042"          # 北京纬度
+          lon: "116.4074"         # 北京经度
+          tz: Asia/Shanghai       # 北京时区
           # hemisphere: south     # uncomment below the equator
           header: header.svg
           sky: "false"
