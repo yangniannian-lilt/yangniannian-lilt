@@ -1,12 +1,3 @@
-<!--
-  Living Scene profile template — three edits and you are done:
-  1. This repository must be named exactly like your GitHub username (Settings → Rename).
-  2. Change "yourname" in header.svg (two places: the <text> and the <title>), and put your
-     latitude, longitude and timezone in .github/workflows/scene.yml.
-  3. Actions tab → "Living scene" → Run workflow. From then on it keeps itself current.
-  Then replace the text below with your own and delete this comment.
--->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-night.svg" />
